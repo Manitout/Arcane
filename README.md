@@ -1,7 +1,8 @@
 # Arcane
 Etude de cas Arcane
 
-pip install virtualenv/br
+pip install virtualenv
+
 virtual venv
 
 Dans le shell du projet
@@ -9,7 +10,9 @@ Dans le shell du projet
 Installer si besoin 
 
 pip install fastapi
+
 pip install uvicorn
+
 pip install tortoise-orm
 
 
