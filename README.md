@@ -3,9 +3,10 @@ Etude de cas Arcane
 
 pip install virtualenv
 
-virtual venv
 
 Dans le shell du projet
+
+virtual venv
 
 Installer si besoin 
 
