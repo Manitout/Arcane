@@ -2,10 +2,16 @@
 Etude de cas Arcane
 
 pip install virtualenv
+virtual venv
 
 Dans le shell du projet
 
-Installer si besoin pip install fastapi pip install ubicorn pip install tortoise-orm
+Installer si besoin 
+
+pip install fastapi
+pip install ubicorn
+pip install tortoise-orm
+
 
 source venv/Scripts/activate
 
