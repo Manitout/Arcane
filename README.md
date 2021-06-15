@@ -1,7 +1,7 @@
 # Arcane
 Etude de cas Arcane
 
-pip install virtualenv
+pip install virtualenv/br
 virtual venv
 
 Dans le shell du projet
